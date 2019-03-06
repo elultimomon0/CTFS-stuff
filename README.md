@@ -7,3 +7,4 @@ Here I'll list some tools depending on the type of challenge. I'm a newbie to CT
 # RE:
 -Binary ninja
 -Ghidra
+
